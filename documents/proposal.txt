@@ -1,0 +1,5 @@
+For this project I would like to use the Spotify Web API to obtain music metadata & streaming data to display Spotify listening trends and recommend new music. Spotify’s API will let developers access general music data like Artists, Albums, and Songs, but it can also recommend music based on input. Additionally, Spotify has streaming charts that display music trends over time. I would like to design a simple, dynamic app that takes advantage of Spotify's database of beautiful album art. 
+
+
+https://spotifycharts.com/regional
+https://developer.spotify.com/documentation/web-api/
